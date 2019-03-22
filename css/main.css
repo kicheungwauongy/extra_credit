@@ -22,6 +22,10 @@ li {
 	flex-direction: column;
 }
 
+a:link {
+	color: black;
+}
+
 a:visited {
 	color: black;
 }
